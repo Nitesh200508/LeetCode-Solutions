@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0468-validate-ip-address) |
 | [0520-detect-capital](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0796-rotate-string) |
