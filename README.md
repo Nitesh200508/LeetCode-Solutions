@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0179-largest-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0289-game-of-life](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0443-string-compression) |
