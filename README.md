@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0468-validate-ip-address) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Math
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0415-add-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
