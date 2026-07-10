@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0468-validate-ip-address) |
+| [0482-license-key-formatting](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
