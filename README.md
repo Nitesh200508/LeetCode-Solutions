@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0289-game-of-life) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
