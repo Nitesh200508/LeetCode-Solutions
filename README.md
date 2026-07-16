@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0443-string-compression) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0415-add-strings) |
