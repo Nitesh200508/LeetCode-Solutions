@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
