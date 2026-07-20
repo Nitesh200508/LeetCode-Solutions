@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0605-can-place-flowers](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
