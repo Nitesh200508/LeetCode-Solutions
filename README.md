@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2490-circular-sentence](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2490-circular-sentence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
