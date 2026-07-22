@@ -1,6 +1,5 @@
 class Solution {
     public boolean isCircularSentence(String sentence) {
-        char f = sentence.charAt(0);
         
         for(int i = 0;i < sentence.length();i++){
             if(sentence.charAt(i) == ' '){
