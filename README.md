@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2490-circular-sentence](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
