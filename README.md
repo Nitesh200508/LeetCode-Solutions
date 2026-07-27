@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1260-shift-2d-grid](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -204,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Backtracking
 |  |
@@ -344,4 +349,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
