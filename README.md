@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
+| [1046-last-stone-weight](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
