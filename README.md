@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
