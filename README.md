@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
+| [0997-find-the-town-judge](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0890-find-and-replace-pattern](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
+| [0997-find-the-town-judge](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
