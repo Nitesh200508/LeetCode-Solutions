@@ -411,8 +411,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
