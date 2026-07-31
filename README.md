@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0797-all-paths-from-source-to-target](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## String Matching
 |  |
 | ------- |
@@ -411,15 +412,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0797-all-paths-from-source-to-target](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
