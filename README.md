@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0371-sum-of-two-integers](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0371-sum-of-two-integers](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
