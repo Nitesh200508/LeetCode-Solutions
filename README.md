@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
