@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
@@ -470,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
