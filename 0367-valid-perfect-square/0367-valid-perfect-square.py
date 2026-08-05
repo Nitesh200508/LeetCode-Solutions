@@ -2,8 +2,7 @@ class Solution:
     def isPerfectSquare(self, num: int) -> bool:
         l = 1
         r = num
-        if num == 0:
-            return False
+        
         if num == 1:
             return True
 
