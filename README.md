@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0890-find-and-replace-pattern](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0888-fair-candy-swap](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0890-find-and-replace-pattern](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0997-find-the-town-judge](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
