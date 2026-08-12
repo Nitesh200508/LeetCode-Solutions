@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
