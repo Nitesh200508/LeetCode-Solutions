@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
 | ------- |
