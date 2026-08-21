@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
