@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2490-circular-sentence](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2490-circular-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2427-number-of-common-factors](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
