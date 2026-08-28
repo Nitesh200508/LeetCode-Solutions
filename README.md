@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
 |  |
