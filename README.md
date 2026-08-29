@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
 |  |
 | ------- |
