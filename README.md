@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
