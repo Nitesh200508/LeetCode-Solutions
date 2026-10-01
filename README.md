@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -624,4 +626,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/1952-three-divisors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nitesh200508/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
